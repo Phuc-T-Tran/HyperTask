@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hypertask</string>
+    <string name="ad_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="app_id">491482608954</string>
+    
+    <string name="ach_master">CgkIuuqV9aYOEAIQAA</string>
+    <string name="ach_beginner">CgkIuuqV9aYOEAIQAQ</string>
+    <string name="ach_novice">CgkIuuqV9aYOEAIQAg</string>
+    <string name="ach_expert">CgkIuuqV9aYOEAIQAw</string>
+    <string name="ach_seen">CgkIuuqV9aYOEAIQBA</string>
+    
+    <string name="board_classic">CgkIuuqV9aYOEAIQBQ </string>
+
+</resources>
